@@ -15,3 +15,9 @@
     - If using the default path, add `C:\MinGW\bin`
 - Run setup.bat
 
+# Highly Recommended
+
+I'm using VSCode. I highly suggest you do as well. I have the Python extension installed, along with GitLens.
+
+VSCode may also ask you to install a linter - do so.
+
